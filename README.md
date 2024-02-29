@@ -102,8 +102,9 @@ Function:
 ![image](https://github.com/rakshithaprakashkumar11/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/150994181/0faf5afd-fa49-4d20-b7e5-5ad223278a9a)
 
 Gradient descent:
-![image](https://github.com/rakshithaprakashkumar11/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/150994181/dd88caf1-a9e6-4ece-b5b0-
-e3c2d70af047)
+
+![image](https://github.com/rakshithaprakashkumar11/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/150994181/74811aed-d411-423c-8d1f-5b5e4ca2cbb9)
+
 
 cost function using gradient descent:
 
