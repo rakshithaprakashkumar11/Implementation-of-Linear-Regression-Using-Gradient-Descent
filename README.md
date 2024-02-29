@@ -25,6 +25,7 @@ Developed by: RAKSHITHA P
 RegisterNumber:  212223220083
 */
 ```
+```
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -87,6 +88,7 @@ print("For Population = 35000, we predict a profit of $"+str(round(predict1,0)))
 
 predict2=predict(np.array([1,7]),theta)*10000
 print("For Population = 70000, we predict a profit of $"+str(round(predict2,0)))
+```
 ```
 
 ## Output:
