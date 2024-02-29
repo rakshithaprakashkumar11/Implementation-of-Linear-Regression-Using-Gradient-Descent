@@ -91,7 +91,7 @@ print("For Population = 70000, we predict a profit of $"+str(round(predict2,0)))
 ```
 ```
 
-## Output:
+Output:
 
 profile prediction:
 
